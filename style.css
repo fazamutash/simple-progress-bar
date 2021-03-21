@@ -1,0 +1,12 @@
+.jumbotron, .progress, .btn {
+  margin: 20px;
+}
+.progress {
+  background-color: #9b9b9b;
+}
+.progress-bar {
+  color: #000000;
+}
+.bg-info {
+  background-color: #ffffff!important;
+}
